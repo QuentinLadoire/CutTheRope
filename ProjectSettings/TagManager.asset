@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Link
+  - Candy
+  - Cutter
+  - Bulle
+  - Pike
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Rope
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1723264003
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Bulle
+    uniqueID: 2636094827
+    locked: 0
+  - name: Rope
+    uniqueID: 3046484421
+    locked: 0
+  - name: Candy
+    uniqueID: 85381211
+    locked: 0
