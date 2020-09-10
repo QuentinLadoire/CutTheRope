@@ -3,4 +3,4 @@
 
 ![](https://github.com/QuentinLadoire/CutTheRope/blob/master/Screen/LevelChoice.PNG)
 
-![](https://github.com/QuentinLadoire/CutTheRope/blob/master/Screen/Level1.PNG)
+![](https://github.com/QuentinLadoire/CutTheRope/blob/master/Screen/Level1.png)
